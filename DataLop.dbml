@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLHS" Class="DataLopDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-B9QJAOE\SQLEXPRESS;Initial Catalog=QLHS;Integrated Security=True" SettingsObjectName="QuanLyHocSinh_OnedotZero.Properties.Settings" SettingsPropertyName="QLHSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BANGDIEMMONHOC" Member="BANGDIEMMONHOCs">
+    <Type Name="BANGDIEMMONHOC">
+      <Column Name="MABANGDIEM" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DIEM15PHUT" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DIEM1TIET" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DIEMTB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MAMON" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MAHOCKI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MADANHSACH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="MON_BANGDIEMMONHOC" Member="MON" ThisKey="MAMON" OtherKey="MAMON" Type="MON" IsForeignKey="true" />
+      <Association Name="DANHSACHLOP_BANGDIEMMONHOC" Member="DANHSACHLOP" ThisKey="MADANHSACH" OtherKey="MADANHSACH" Type="DANHSACHLOP" IsForeignKey="true" />
+      <Association Name="HOCKI_BANGDIEMMONHOC" Member="HOCKI" ThisKey="MAHOCKI" OtherKey="MAHOCKI" Type="HOCKI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MON" Member="MONs">
+    <Type Name="MON">
+      <Column Name="MAMON" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENMON" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="MON_BANGDIEMMONHOC" Member="BANGDIEMMONHOCs" ThisKey="MAMON" OtherKey="MAMON" Type="BANGDIEMMONHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DANHSACHLOP" Member="DANHSACHLOPs">
+    <Type Name="DANHSACHLOP">
+      <Column Name="MADANHSACH" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MAHS" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TBHKI" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="TBHKII" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="DANHSACHLOP_BANGDIEMMONHOC" Member="BANGDIEMMONHOCs" ThisKey="MADANHSACH" OtherKey="MADANHSACH" Type="BANGDIEMMONHOC" />
+      <Association Name="HOCSINH_DANHSACHLOP" Member="HOCSINH" ThisKey="MAHS" OtherKey="MAHS" Type="HOCSINH" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HOCKI" Member="HOCKIs">
+    <Type Name="HOCKI">
+      <Column Name="MAHOCKI" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENHOCKI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="HOCKI_BANGDIEMMONHOC" Member="BANGDIEMMONHOCs" ThisKey="MAHOCKI" OtherKey="MAHOCKI" Type="BANGDIEMMONHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HOCSINH" Member="HOCSINHs">
+    <Type Name="HOCSINH">
+      <Column Name="MAHS" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GIOITINH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NGAYSINH" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DIACHI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EMAIL" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MALOP" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="HOCSINH_DANHSACHLOP" Member="DANHSACHLOPs" ThisKey="MAHS" OtherKey="MAHS" Type="DANHSACHLOP" />
+      <Association Name="LOP_HOCSINH" Member="LOP" ThisKey="MALOP" OtherKey="MALOP" Type="LOP" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KHOI" Member="KHOIs">
+    <Type Name="KHOI">
+      <Column Name="MAKHOI" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENKHOI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="KHOI_LOP" Member="LOPs" ThisKey="MAKHOI" OtherKey="MAKHOI" Type="LOP" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LOP" Member="LOPs">
+    <Type Name="LOP">
+      <Column Name="MALOP" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENLOP" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SISO" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MAKHOI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="LOP_HOCSINH" Member="HOCSINHs" ThisKey="MALOP" OtherKey="MALOP" Type="HOCSINH" />
+      <Association Name="KHOI_LOP" Member="KHOI" ThisKey="MAKHOI" OtherKey="MAKHOI" Type="KHOI" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

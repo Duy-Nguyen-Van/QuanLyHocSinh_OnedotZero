@@ -1,0 +1,477 @@
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Tiepnhanhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Lapbaocaotongket.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Lapdanhsachlop.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Nhapbangdiemmonhoc.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Thaydoiquydinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Tiepnhanhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Tracuuhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Lapdanhsachlop.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Lapbaocaotongket.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Nhapbangdiemmonhoc.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Tracuuhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Thaydoiquidinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Lapbaocaotongket.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Lapdanhsachlop.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Nhapbangdiemmonhoc.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Thaydoiquidinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Tiepnhanhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Tracuuhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Lapbaocaotongket.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Lapdanhsachlop.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Nhapbangdiemmonhoc.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Thaydoiquydinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Tiepnhanhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Tracuuhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Lapbaocaotongket.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Lapdanhsachlop.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Nhapbangdiemmonhoc.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Thaydoiquidinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Tiepnhanhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Dungdan_Tracuuhocsinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapBaoCaoTongKet.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapDanhSachLop.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_NhapBangDiemMonHoc.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_ThayDoiQuyDinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TiepNhanHocSinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TraCuuHocSinh.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+E:\HK4\Nhập môn CNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapBaoCaoTongKet.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapDanhSachLop.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_NhapBangDiemMonHoc.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_ThayDoiQuyDinh.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TiepNhanHocSinh.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TraCuuHocSinh.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe.licenses
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapBaoCaoTongKet.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapDanhSachLop.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_NhapBangDiemMonHoc.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_ThayDoiQuyDinh.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TiepNhanHocSinh.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TraCuuHocSinh.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+E:\HK4\Nhập môn CNPM\Đồ án\QuanLyHocSinh_OnedotZero_ing\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe.licenses
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Dashboard.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Map.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraMap.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeMap.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.TreeMap.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Presets.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Dashboard.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Map.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraMap.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeMap.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.TreeMap.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Presets.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapBaoCaoTongKet.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapDanhSachLop.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_NhapBangDiemMonHoc.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_ThayDoiQuyDinh.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TiepNhanHocSinh.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TraCuuHocSinh.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe.licenses
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe.config
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.exe
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\QuanLyHocSinh_OnedotZero.pdb
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Dashboard.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Map.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraMap.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeMap.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.TreeMap.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Presets.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Dashboard.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Map.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraMap.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraTreeMap.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.TreeMap.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraGauges.v17.1.Presets.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Dashboard.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Map.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csprojResolveAssemblyReference.cache
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_Home.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapBaoCaoTongKet.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_LapDanhSachLop.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_NhapBangDiemMonHoc.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_ThayDoiQuyDinh.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TiepNhanHocSinh.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.frm_TraCuuHocSinh.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.Properties.Resources.resources
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.csproj.GenerateResource.Cache
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe.licenses
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.exe
+D:\Study\NMCNPM\QuanLyHocSinh_OnedotZero (1)\QuanLyHocSinh_OnedotZero\obj\Debug\QuanLyHocSinh_OnedotZero.pdb
